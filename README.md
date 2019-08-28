@@ -1,3 +1,2 @@
 # hello-world
-I want to learn programming
-and I'm really committed on it
+I want to learn and I'm really committed on it
